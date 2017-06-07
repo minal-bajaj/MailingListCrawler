@@ -7,6 +7,9 @@ App.java is starting point of this application where it expects following argume
         - Mailing list URL <br>
         - Year <br>
         - output folder to download mails. <br>
+        
+For example:
+http://mail-archives.apache.org/mod_mbox/maven-users/ 2015 mails
 
 This inputs are expected as program arguments. <br>
 
